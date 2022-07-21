@@ -1,0 +1,28 @@
+body {
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.callout-container {
+    height: 100vh;
+    background: url("https://www.brideathome.co.uk/uploads/images/slides/a5575194_9be5_40e0_b5c1_173b1e6c2424.jpg") no-repeat bottom right fixed;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.jumbotron h1 {
+    color: #ffffff;
+
+}
+
+.jumbotron p {
+    color: #ffffff;
+
+}
